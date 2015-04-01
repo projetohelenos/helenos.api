@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helenos.ApiTests", "Helenos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helenos.Repository", "Helenos.Repository\Helenos.Repository.csproj", "{5CCFF789-47DD-4FC9-8CD5-E5777145B520}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helenos.Domain", "Helenos.Domain\Helenos.Domain.csproj", "{26C4491D-FD3A-4307-86E7-43CD78B2CA2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5CCFF789-47DD-4FC9-8CD5-E5777145B520}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CCFF789-47DD-4FC9-8CD5-E5777145B520}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CCFF789-47DD-4FC9-8CD5-E5777145B520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C4491D-FD3A-4307-86E7-43CD78B2CA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C4491D-FD3A-4307-86E7-43CD78B2CA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C4491D-FD3A-4307-86E7-43CD78B2CA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C4491D-FD3A-4307-86E7-43CD78B2CA2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
