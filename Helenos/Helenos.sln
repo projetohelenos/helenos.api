@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helenos.Api", "Helenos.Api\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helenos.ApiTests", "Helenos.ApiTests\Helenos.ApiTests.csproj", "{CC240786-99F0-4E88-AB95-278372B4B67E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helenos.Domain", "Helenos.Domain\Helenos.Domain.csproj", "{CD965190-C8B7-4AF7-98AF-A337E115A922}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helenos.Repository", "Helenos.Repository\Helenos.Repository.csproj", "{5CCFF789-47DD-4FC9-8CD5-E5777145B520}"
 EndProject
 Global
@@ -25,10 +23,6 @@ Global
 		{CC240786-99F0-4E88-AB95-278372B4B67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC240786-99F0-4E88-AB95-278372B4B67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC240786-99F0-4E88-AB95-278372B4B67E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CD965190-C8B7-4AF7-98AF-A337E115A922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CD965190-C8B7-4AF7-98AF-A337E115A922}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CD965190-C8B7-4AF7-98AF-A337E115A922}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CD965190-C8B7-4AF7-98AF-A337E115A922}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5CCFF789-47DD-4FC9-8CD5-E5777145B520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5CCFF789-47DD-4FC9-8CD5-E5777145B520}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CCFF789-47DD-4FC9-8CD5-E5777145B520}.Release|Any CPU.ActiveCfg = Release|Any CPU
