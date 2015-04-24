@@ -39,10 +39,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entity\ChooseSettings.cs" />
+    <Compile Include="Entity\Records.cs" />
+    <Compile Include="Entity\Settings.cs" />
+    <Compile Include="Entity\TypeRecords.cs" />
+    <Compile Include="Entity\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Entity\" />
     <Folder Include="Repository\" />
     <Folder Include="Service\" />
   </ItemGroup>
